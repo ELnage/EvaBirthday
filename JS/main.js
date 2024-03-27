@@ -1242,7 +1242,7 @@ function balon() {
           nb_sides: 5
         },
         image: {
-          src: '../images/balon.png',
+          src: 'https://elnage.github.io/EvaBirthday/images/balon.png',
           width: 100,
           height: 100
         }
@@ -1352,7 +1352,7 @@ function balon() {
           nb_sides: 5
         },
         image: {
-          src: '../images/balon.png',
+          src: 'https://elnage.github.io/EvaBirthday/images/balon.png',
           width: 100,
           height: 100
         }
