@@ -264,7 +264,7 @@ const second = 1000,
   day = hour * 24;
 
 let countDown = new Date(`${config.birthdate} 00:00:00`).getTime();
-x = setInterval(function () {
+let x = setInterval(function () {
   let now = new Date().getTime(),
     distance = countDown - now;
 
@@ -1242,7 +1242,7 @@ function balon() {
           nb_sides: 5
         },
         image: {
-          src: '../images/pngwing.com (4).png',
+          src: '../images/balon.png',
           width: 100,
           height: 100
         }
@@ -1352,7 +1352,7 @@ function balon() {
           nb_sides: 5
         },
         image: {
-          src: '../images/pngwing.com (4).png',
+          src: '../images/balon.png',
           width: 100,
           height: 100
         }
