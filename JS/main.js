@@ -232,7 +232,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'mar 29, 2024',
+  birthdate: 'mar 29, 2023',
   name: 'Eva'
 };
 function fireApp() {
